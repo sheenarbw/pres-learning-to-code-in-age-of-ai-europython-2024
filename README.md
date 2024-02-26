@@ -1,4 +1,4 @@
-# Presentation: LEarning to code in the age of AI 
+# Presentation: Learning to code in the age of AI 
 
 The live presentation can be seen [here](https://sheenarbw.github.io/pres-learning-to-code-in-age-of-ai/)
 
